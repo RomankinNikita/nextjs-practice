@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "test post 1",
+      "body": "test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest."
+    },
+    {
+      "id": 2,
+      "title": "test post 2",
+      "body": "test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest."
+    },
+    {
+      "id": 3,
+      "title": "test post 3",
+      "body": "test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest."
+    },
+    {
+      "id": 4,
+      "title": "test post 4",
+      "body": "test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest. test test test test testvtesttest."
+    }
+  ]
+}
